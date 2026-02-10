@@ -17,3 +17,8 @@ Permite jugar desde el navegador y guarda los resultados de cada partida en una 
 - MySQL
 
 ## 📂 Estructura del proyecto
+/tres-en-raya
+│── index.php
+│── conexion.php
+│── guardar.php
+│── README.md
